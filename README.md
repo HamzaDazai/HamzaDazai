@@ -10,10 +10,6 @@
   <div id="header" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HamzaDazai&theme=dark&type=png" alt="GitHub Streak" /></a>
 </div>
-| ![HamzaDazai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaDazai&show_icons=true&theme=jolly) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDazai&theme=jolly)](https://github.com/About-Me/github-readme-stats) |
-  |:-:|:-:|
-
-  ---
   <a href="https://www.linkedin.com/in/hamza-dazia-a7380117b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,3 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+| ![HamzaDazai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaDazai&show_icons=true&theme=jolly) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDazai&theme=jolly)](https://github.com/About-Me/github-readme-stats) |
+  |:-:|:-:|
+
+  ---
