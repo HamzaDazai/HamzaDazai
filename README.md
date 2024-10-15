@@ -1,3 +1,5 @@
+                                                            
+  <h1 align="center">  Hi there 👋 , Iam Hamza Dazia </h1>
   [![hdazia's 42 stats](https://badge.mediaplus.ma/levi/hdazia)](https://github.com/oakoudad/badge42)
 <div id="badges">
   <a href="https://www.linkedin.com/in/hamza-dazia-a7380117b/">
