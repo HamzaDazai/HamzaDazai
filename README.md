@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I am Hamza Dazia</h1>
 
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/levi/hdazia" alt="hdazia's 42 stats" />
-  </a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/hdazia" alt="hdazia's 42 stats" /></a>
 </div>
 
 <div align="center">
