@@ -1,6 +1,6 @@
                                                             
   <h1 align="center">  Hi there 👋 , Iam Hamza Dazia </h1>
-  [![hdazia's 42 stats](https://badge.mediaplus.ma/levi/hdazia)](https://github.com/oakoudad/badge42)
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/hdazia" alt="hdazia's 42 stats" /></a>
 <div id="badges">
   <a href="https://www.linkedin.com/in/hamza-dazia-a7380117b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
