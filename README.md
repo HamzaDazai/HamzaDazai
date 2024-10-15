@@ -1,6 +1,8 @@
-  - 👋 Hi, I’m @HamzaDazai
-  - <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/hdazia" alt="hdazia's 42 stats" /></a>
-  - <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>   https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hamza-dazia-a7380117b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/H_Dazia">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
