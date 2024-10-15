@@ -1,5 +1,8 @@
                                                             
   <h1 align="center">  Hi there 👋 , Iam Hamza Dazia </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/hdazia" alt="hdazia's 42 stats" /></a>
 <div id="badges">
   <div id="header" align="center">
