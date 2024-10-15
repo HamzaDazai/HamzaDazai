@@ -10,7 +10,7 @@
   <div id="header" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HamzaDazai&theme=dark&type=png" alt="GitHub Streak" /></a>
 </div>
-  | ![MR-SIMONN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaDazai&show_icons=true&theme=jolly) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDazai&theme=jolly)](https://github.com/About-Me/github-readme-stats) |
+| ![HamzaDazai's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaDazai&show_icons=true&theme=jolly) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDazai&theme=jolly)](https://github.com/About-Me/github-readme-stats) |
   |:-:|:-:|
 
   ---
