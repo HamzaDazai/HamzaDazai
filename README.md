@@ -1,3 +1,4 @@
+  [![hdazia's 42 stats](https://badge.mediaplus.ma/levi/hdazia)](https://github.com/oakoudad/badge42)
 <div id="badges">
   <a href="https://www.linkedin.com/in/hamza-dazia-a7380117b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
