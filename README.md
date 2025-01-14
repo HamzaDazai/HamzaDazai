@@ -16,6 +16,13 @@
 </div>
 
 <hr>
+<div align="center">
+  <h2>Chof fl7nch kiyakl stats w sktna </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hamza-dazia-a7380117b/">
