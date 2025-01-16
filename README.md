@@ -25,7 +25,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HamzaDazAI" alt="GitHub Streak" /></a>
